@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class App {
+public class Number_1 {
 	public static void main(String[] args) {
 		System.out.println("Enter 3 Numbers: ");
 		Scanner ab = new Scanner(System.in);
